@@ -1,0 +1,14 @@
+"cpu" (0) | "motherboard" (1) | "hdd" (2) | "ram" (3) | "videocard" (4) | "dvd" (5) | 
+
+Error(s) found :
+err 'java.lang.Exception: Wrong size of HDD!' in line 4, field 'hdd'
+err 'java.lang.Exception: Wrong size of RAM!' in line 5, field 'ram'
+err 'java.lang.Exception: Wrong size of RAM!' in line 9, field 'ram'
+
+id 0 : intel ,asus ,500 ,8 ,gtx 1080
+id 1 : rayzen ,asus ,1000 ,16 ,gtx 1080
+id 2 : intel i7 ,lenovo ,1000 ,8 ,gtx1050 ti
+id 5 : intel i3 ,lenovo  ,1000 ,4 ,gtx 750
+id 6 : intel core ,asus ,500 ,2 ,gtx8600
+id 7 : intel i7 ,asus ,1000 ,16 ,gtx1080 ti
+id 9 : rayzen ,asus ,500 ,4 ,gtx 750

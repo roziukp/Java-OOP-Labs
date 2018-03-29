@@ -1,0 +1,58 @@
+[
+	{
+		"CPU":"intel",
+		"Motherboard":"asus",
+		"HDD":"500",
+		"RAM":"8",
+		"Videocard":"gtx 1080",
+		"DVD":"dvd-rw"
+	},
+	{
+		"CPU":"rayzen",
+		"Motherboard":"asus",
+		"HDD":"1000",
+		"RAM":"16",
+		"Videocard":"gtx 1080",
+		"DVD":"dvd-rw"
+	},
+	{
+		"CPU":"intel i7",
+		"Motherboard":"lenovo",
+		"HDD":"1000",
+		"RAM":"8",
+		"Videocard":"gtx1050 ti",
+		"DVD":"dvd-rw"
+	},
+	{
+		"CPU":"intel i3",
+		"Motherboard":"lenovo ",
+		"HDD":"1000",
+		"RAM":"4",
+		"Videocard":"gtx 750",
+		"DVD":"dvd-r"
+	},
+	{
+		"CPU":"intel core",
+		"Motherboard":"asus",
+		"HDD":"500",
+		"RAM":"2",
+		"Videocard":"gtx8600",
+		"DVD":"dvd-rw"
+	},
+	{
+		"CPU":"intel i7",
+		"Motherboard":"asus",
+		"HDD":"1000",
+		"RAM":"16",
+		"Videocard":"gtx1080 ti",
+		"DVD":"dvd-rw"
+	},
+	{
+		"CPU":"rayzen",
+		"Motherboard":"asus",
+		"HDD":"500",
+		"RAM":"4",
+		"Videocard":"gtx 750",
+		"DVD":"dvd-rw"
+	}
+]
